@@ -1,1 +1,1 @@
-#Homework from the course Python for data Analysis 
+Homework from the course Python for data Analysis 
